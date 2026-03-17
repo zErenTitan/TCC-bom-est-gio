@@ -1,0 +1,77 @@
+ footer#rodape {
+
+    background-color: rgb(255, 193, 7);
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+    
+    bottom:0;
+    height: 10vw;
+    overflow-y: hidden;
+    justify-content: space-between;
+    margin-top: 12vw;
+    align-items: center;
+    
+    
+    
+  
+
+
+}
+
+div#botao{
+    display: flex;
+    align-items: center;
+    
+}
+div#imgelogin{
+
+align-items: center;
+}
+
+p.rodape1{
+    font-size: 1.2vw;
+    text-decoration: none;
+    color: black;
+}
+
+div.links a{
+    padding-top: 2vw;
+    display: inline-flex;
+    margin-right: 2vw;
+   
+    
+
+
+}
+div#contato{
+    font-size: 12px;
+    text-decoration: none;
+    display: flex;
+    
+    
+    
+    align-items: center;
+    justify-content: space-around;
+    
+}
+i.icon{
+    font-size: 1.8vw;
+    
+}
+div#container_contato{
+    margin-right: 3vw;
+    text-align: center;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.imglogin{
+    text-align: center;
+    width: 25vw;
+    height: 12vw;
+}
+
+

@@ -1,0 +1,109 @@
+div.vagas{
+   border: 0.1vw  black solid;
+   border-radius: 0.75vw;
+   background-color:rgb(255, 193, 7);
+   padding:  0.10vw;
+
+   
+  
+}
+div.descricoes{
+    border-bottom: 0.090vw #B0E0E6 solid;
+    border-top-left-radius: 0vw;    
+}
+
+.form-control {
+    background-color:  rgba(84, 137, 235, 0.466);
+  
+    color: black;
+    border-radius: 0.25vw;
+    border-left: 0vw;
+    padding: 0vw;
+    border-top-left-radius:0vw ;
+    border-bottom-left-radius: 0vw;
+    
+    
+    
+}
+span.input-group-text{
+    background-color:  rgba(84, 137, 235, 0.466);
+  
+    color: black;
+    border-right: black 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+
+
+}
+ div#botao{
+    background-color:rgb(233, 236, 239);
+    border-bottom: 0vw;
+    border-radius: 0.20vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn-primary{
+    border-radius: 0.60vw;
+}   
+.nom_vaga{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 115px;
+    
+    
+}
+.cidade{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 60px;
+    
+}
+.sal{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 60px;
+}
+.cargo{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 58px;
+}
+.hr{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 110px;
+}
+.requisitos{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 80px;
+
+}
+.descricao{
+    background-color:  rgba(84, 137, 235, 0.466);
+    border-right: 0vw;
+    border-top-right-radius: 0vw;
+    border-bottom-right-radius: 0vw;
+    width: 80px;
+}
+.textarea{ 
+height: 9.6vw;
+background-color:  rgba(84, 137, 235, 0.466);
+border-right: 0vw;
+border-top-right-radius: 0vw;
+border-bottom-right-radius: 0vw;
+
+}

@@ -1,0 +1,45 @@
+div#botao{
+
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+   
+    
+    margin: 1vw;
+
+  
+    
+
+}
+div.botoes_usuario{
+    height: 3vw;
+    width: 15vw;
+    background-color: rgb(153, 136, 136);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 1.25vw;
+    color: black;
+    border-radius: 0.5vw;
+    vertical-align: middle;
+    margin-top: 1vw;
+   
+    
+}
+a.hrefs{
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    
+}
+div.botoes_usuario:hover{
+    transition: 0.5s;
+    background-color: chocolate;
+    
+}
+.p{
+    margin-top: 0.5vw;
+    
+}
+
+

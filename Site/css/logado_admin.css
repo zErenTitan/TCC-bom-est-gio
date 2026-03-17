@@ -1,0 +1,25 @@
+div#titulo{
+
+  text-align: center;
+  
+}
+p#adm_nom{
+  color: blue;
+  display: inline-flex;
+}
+hr.risco{
+  border-color:red;
+}
+div#perguntas{
+  border-top: 0.1vw solid black;
+  border-bottom: 0.1vw solid black;
+  border-right:  0.1vw solid black;
+  border-left: 0.1vw solid black;
+}
+div.opcao_admin{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+  

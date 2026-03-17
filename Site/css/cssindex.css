@@ -1,0 +1,60 @@
+
+div.teste{
+    
+ 
+}
+div.infos2{
+
+    height: 10vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    word-wrap: break-word;
+   
+    font-size: 1vw;
+
+}
+div#numdevagas{
+    border-radius: 1vw 0vw 0vw 1vw;
+    
+    
+}
+div#numdeemp{
+    
+    
+}
+div#numdeuser{
+    
+    border-right: black 0.5vw solid;
+    border-radius: 0vw 1vw 1vw 0vw;
+}
+div.numeros{
+    
+    width: 32.5%;
+    border-top: black 0.5vw solid;
+    border-left: black 0.5vw solid;
+    border-bottom: black 0.5vw solid;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    background-color: rgba(148, 148, 148, 0.815);  
+    color:white;
+
+}
+.txtnum{
+    font-size: 1.25vw;
+    margin-bottom: 0VW;
+
+}
+@media (min-width: 0px) and (max-width: 900px) {
+    div.infos2{
+
+        font-size: 2vw;
+        height: 15vw;
+    }
+    .txtnum{
+      
+        font-size: 2vw;
+    }
+    }   

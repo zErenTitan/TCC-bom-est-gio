@@ -1,0 +1,51 @@
+div.btn_selecionar{
+    width: 25vw;
+    height: 20vw;
+    background-color: #7e7979;
+    border-radius: 0.5vw;
+    box-shadow: 0vw 0vw 0.5vw 0.1vw black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+div.btn_selecionar:hover{
+background-color: rgb(0, 255, 242);
+transition: 0.5s;
+}
+
+a#at{
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+    
+}
+
+div.containerbotoes{
+    height: auto;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+   
+
+}
+i.icon{
+    font-size: 4vw;
+
+}
+img#registrar_icone{
+    width: 10vw;
+    height: 8vw;
+   
+}   
+div#icon_reg{
+
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
